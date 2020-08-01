@@ -7,7 +7,7 @@
 - csv
 
 #### TODO
-- [ ] 1. Join Github
+- [x] 1. Join Github
 - [ ] 2. Generate virtual trajectories (Spherical, Cylindrical, Random Inertial)
 - [ ] 3. Write CSV
 - [ ] 4. Load CSV
