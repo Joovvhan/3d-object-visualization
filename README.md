@@ -8,10 +8,11 @@
 
 #### TODO
 - [x] 1. Join Github
-- [ ] 2. Generate virtual trajectories (Spherical, Cylindrical, Random Inertial)
-- [ ] 3. Write CSV
-- [ ] 4. Load CSV
-- [ ] 5. Visualize 3D trajectories
-- [ ] 6. Visualize 3D trajectories along time (Color Gradient)
-- [ ] 7. Visualize Yaw/Pitch trajectories
-- [ ] 8. Visualize Yaw/Pitch trajectories along time (Color Gradient)
+- [x] 2. Set Python environments
+- [ ] 3. Generate virtual trajectories (Spherical, Cylindrical, Random Inertial)
+- [ ] 4. Write CSV
+- [ ] 5. Load CSV
+- [ ] 6. Visualize 3D trajectories
+- [ ] 7. Visualize 3D trajectories along time (Color Gradient)
+- [ ] 8. Visualize Yaw/Pitch trajectories
+- [ ] 9. Visualize Yaw/Pitch trajectories along time (Color Gradient)
